@@ -1,0 +1,2 @@
+images used in training process are stored at http://
+audios used in training process are stored at https://www.aicrowd.com/clef_tasks/22/task_dataset_files?challenge_id=211
