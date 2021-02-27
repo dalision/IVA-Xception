@@ -6,4 +6,4 @@ IVA-Xception model which can achieve high performance in identifying multiple bi
 
 ## Directory structure：
 
-![dir_structure](IVA-Xception/dir_structure.png )
+![dir_structure](https://github.com/dalision/IVA-Xception/blob/master/dir_structure.png )
