@@ -6,8 +6,8 @@ IVA-Xception model which can achieve high performance in identifying multiple bi
 
 ## Directory structure：
 
-│  README.md
-├─IVA-Xception
+|│  README.md
+|├─IVA-Xception
 │  │
 │  ├─audio_recognizer
 │  │  │  2bird_mutiple_recognizer(withoutIVA).py
