@@ -25,6 +25,14 @@ average accuracy compared with state-of-the-art methods.
 
 
 
+## Model
+
+![dir_structure](https://github.com/dalision/IVA-Xception/blob/master/images/model.png )
+
+In a complete bird recognition process, the model first uses IVA  in the frequency domain to separate source signals from the original multi-channel signal. Then we utilize the CNN that has been trained to extract features from the converted spectrograms. Finally, the Softmax classifier is adopted to obtain the identification result. For CNN architecture selection, we utilize Xception as the adaptive CNN architecture for our system after comparing neural networks’ performance on spectrogram feature extraction. We also apply data augmentation techniques to converted spectrograms to improve the robustness of the system and solve the data imbalance problem.
+
+
+
 # Web Platform
 
 **Recognition page:**
@@ -33,7 +41,11 @@ The gif  below showes a process of recognizing all the foreground species from a
 
 ![dir_structure](https://github.com/dalision/IVA-Xception/blob/master/images/recognize.gif )
 
+
+
 **Simulation page:**
+
+We apply auralization technology to build a simulation experiment environment for researchers to generate synthesized signals in reality include reverberation and reflection. Users could batch simulate the transmission process of sound source signals, and the system finally outputs multi-channel sound field signals recorded by microphone array set by users.
 
 ![dir_structure](https://github.com/dalision/IVA-Xception/blob/master/images/simulation_lab.gif )
 
