@@ -1,6 +1,4 @@
-#  Blind source separation-based IVA-Xception model
-for bird sound recognition in complex acoustic
-environments
+#  Blind source separation-based IVA-Xception model for bird sound recognition in complex acoustic environments
 
 [paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12160)
 
