@@ -25,7 +25,11 @@ average accuracy compared with state-of-the-art methods.
 
 ## Model
 
+<<<<<<< HEAD
 ![dir_structure](https://github.com/dalision/IVA-Xception/blob/master/images/model.jpg )
+=======
+![dir_struct](https://github.com/dalision/IVA-Xception/blob/master/images/model.png )
+>>>>>>> a7d679de40fc1f33c0249e7d5ed1a141514ec4ab
 
 In a complete bird recognition process, the model first uses IVA  in the frequency domain to separate source signals from the original multi-channel signal. Then we utilize the CNN that has been trained to extract features from the converted spectrograms. Finally, the Softmax classifier is adopted to obtain the identification result. For CNN architecture selection, we utilize Xception as the adaptive CNN architecture for our system after comparing neural networks’ performance on spectrogram feature extraction. We also apply data augmentation techniques to converted spectrograms to improve the robustness of the system and solve the data imbalance problem.
 
