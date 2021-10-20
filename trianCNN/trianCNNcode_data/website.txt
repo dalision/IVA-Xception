@@ -1,2 +1,2 @@
-images used in training process are stored at http://
+images used in training process are stored at https://pan.baidu.com/s/1akcjjbdGNvfDxmSGtNan4A code:e1fm 
 audios used in training process are stored at https://www.aicrowd.com/clef_tasks/22/task_dataset_files?challenge_id=211
