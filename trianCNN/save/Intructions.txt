@@ -1,1 +1,4 @@
 this dir is used to store processing data during the process.
+you can download the trained model parameters from the following url, which contains three CNN models Xception, Inception-v3, Xception.
+url:https://pan.baidu.com/s/1DM3H2HWn6sXiFJ8VYpG3OQ 
+code:i58a 
